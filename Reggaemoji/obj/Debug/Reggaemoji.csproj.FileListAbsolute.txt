@@ -15,6 +15,8 @@ C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\bin\Reggaemoji.dll.confi
 C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\bin\Reggaemoji.dll
 C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\bin\Reggaemoji.pdb
 C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\bin\Antlr3.Runtime.dll
+C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\bin\EntityFramework.dll
+C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\bin\EntityFramework.SqlServer.dll
 C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\bin\Microsoft.AI.Agent.Intercept.dll
 C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\bin\Microsoft.AI.DependencyCollector.dll
 C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -33,6 +35,8 @@ C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\bin\System.Web.WebPages.
 C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\bin\System.Web.WebPages.dll
 C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\bin\System.Web.WebPages.Razor.dll
 C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\bin\WebGrease.dll
+C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\bin\EntityFramework.xml
+C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\bin\EntityFramework.SqlServer.xml
 C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\bin\Microsoft.AI.DependencyCollector.xml
 C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\bin\Microsoft.AI.Web.xml
@@ -48,10 +52,5 @@ C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\bin\System.Web.WebPages.
 C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\bin\System.Web.WebPages.Razor.xml
 C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\bin\Antlr3.Runtime.pdb
 C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\bin\Newtonsoft.Json.xml
-C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\obj\Debug\Reggaemoji.csprojResolveAssemblyReference.cache
 C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\obj\Debug\Reggaemoji.dll
 C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\obj\Debug\Reggaemoji.pdb
-C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\bin\EntityFramework.dll
-C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\bin\EntityFramework.SqlServer.dll
-C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\bin\EntityFramework.xml
-C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\bin\EntityFramework.SqlServer.xml
