@@ -1,0 +1,64 @@
+﻿@model Reggaemoji.Models.SupportModel
+
+@using (Html.BeginForm())
+{
+<div class="modal fade" id="modal-container-815386" role="dialog" aria-hidden="true" aria-labelledby="myModalLabel">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+
+                <button class="close" aria-hidden="true" type="button" data-dismiss="modal">
+                    ×
+                </button>
+                <h4 class="modal-title" id="myModalLabel">
+                    ReggaeMoji - Support
+                </h4>
+            </div>
+            <div class="modal-body">               
+                    <table>
+                        <tr>
+                            <td>
+                                @Html.Label("Name:")
+                            </td>
+                            <td>
+                                @Html.TextBoxFor(m => m.Name)
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                @Html.Label("Email:")
+                            </td>
+                            <td>
+                                @Html.TextBoxFor(m => m.Email)
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                @Html.Label("Subject:")
+                            </td>
+                            <td>
+                                @Html.TextBoxFor(m => m.Subject)
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                @Html.Label("Message:")
+                            </td>
+                            <td>
+                                @Html.TextAreaFor(m => m.Message)
+                            </td>
+                        </tr>
+                    </table>                
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-default" type="button" data-dismiss="modal">
+                    Close
+                </button>
+                <button class="btn btn-primary" type="button" data-dismiss="modal">
+                    Submit
+                </button>
+            </div>
+        </div>
+    </div>
+</div>	
+}

@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>@ViewBag.Title - ReggaeMoji</title>
+
+        <link href="../../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="../../bootstrap/css/style.css" rel="stylesheet">
+    </head>
+    <body style="background-image:url('../../Content/rays.png');background-color:#efefef;">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    <nav class="navbar navbar-default navbar-inverse" role="navigation">
+                        <div class="navbar-header">
+                            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand" href="Index">ReggaeMoji</a>
+                        </div>
+
+                        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                            <ul class="nav navbar-nav">
+                                <li class="active">
+                                    <a href="/Home/Index">Home</a>
+                                </li>
+                                <li>
+                                    <a href="/Home/Gallery">Gallery</a>
+                                </li>
+                                <li>
+                                    <a class="btn" id="modal-815386" role="button" href="#modal-container-815386" data-toggle="modal">Support</a>
+                                </li>
+                                <li>
+                                    <a class="btn" id="modal-815387" role="button" href="#modal-container-815387" data-toggle="modal">Privacy</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+                <div class="col-md-4">
+                    <img src="~/Content/te0.png" alt="" style="height:256px;width:256px;margin-left:60px;" />
+                    <br />
+                    <img src="~/Content/e0.png" alt="" style="height:196px;width:196px;" />
+                    <br />
+                    <img src="~/Content/te2.png" alt="" style="height:196px;width:196px;margin-left:260px;margin-top:-50px;position:absolute;" />
+                </div>
+                <div class="col-md-8">
+                    @RenderBody()   
+                    @Html.Partial("_supportPartial")
+                    @Html.Partial("_privacyPartial")       
+                </div>
+            </div>
+        </div> 
+     
+        <footer style="float:right; text-align:left;">
+            <table>
+                <tr>
+                    <td><strong>&copy; @DateTime.Now.Year by Appsmash, LLC.</strong></td>
+                    <td><a href="#"><img src="~/Content/1462670885_instagram.png" alt="" /></a></td>
+                    <td><a href="#"><img src="~/Content/1462670898_facebook.png" alt="" /></a></td>
+                </tr>
+            </table>        
+        </footer>
+        <script src="~/bootstrap/js/jquery.min.js"></script>
+        <script src="~/bootstrap/js/bootstrap.min.js"></script>       
+        <script src="~/bootstrap/js/scripts.js"></script>
+    </body>
+</html>
