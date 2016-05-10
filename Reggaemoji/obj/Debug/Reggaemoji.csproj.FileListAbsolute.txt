@@ -54,3 +54,4 @@ C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\bin\Antlr3.Runtime.pdb
 C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\bin\Newtonsoft.Json.xml
 C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\obj\Debug\Reggaemoji.dll
 C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\obj\Debug\Reggaemoji.pdb
+C:\Users\Bishop\OneDrive\Projects\Reggaemoji\Reggaemoji\obj\Debug\Reggaemoji.csprojResolveAssemblyReference.cache
